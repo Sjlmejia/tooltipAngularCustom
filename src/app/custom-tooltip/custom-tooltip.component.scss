@@ -1,0 +1,20 @@
+/**
+ *
+ * Copyright (C) 2021 Hewlett Packard Enterprise Development LP
+ *
+ */
+
+.tooltip {
+  position: fixed;
+  background-color: rgba(97, 97, 97, 0.9);
+  border-radius: 4px;
+  color: #ffffff;
+  font-family: Arial;
+  padding: 10px;
+  width: 150px;
+  height: auto;
+  font-size: 13px;
+  margin-top: 5px;
+  transform: translateX(-50%);
+  z-index: 9999;
+}
