@@ -1,9 +1,3 @@
-/**
- *
- * Copyright (C) 2021 Hewlett Packard Enterprise Development LP
- *
- */
-
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { CustomTooltipComponent } from './custom-tooltip.component';

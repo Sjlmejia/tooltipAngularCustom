@@ -1,9 +1,3 @@
-/**
- *
- * Copyright (C) 2021 Hewlett Packard Enterprise Development LP
- *
- */
-
 import { Component } from '@angular/core';
 
 @Component({
