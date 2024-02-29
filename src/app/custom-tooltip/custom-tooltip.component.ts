@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'cloudauth-ui-tooltip',
+  selector: 'ui-tooltip',
   templateUrl: './custom-tooltip.component.html',
   styleUrls: ['./custom-tooltip.component.scss']
 })
